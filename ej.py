@@ -23,4 +23,4 @@ print("Texto cifrado en hebreo:", cifrado_hebreo)
 
 texto_espanol = "holamundo"
 cifrado_espanol = atbash_cifrado(texto_espanol, alfabeto_espanol_original, alfabeto_espanol_cifrado)
-print("Texto cifrado en español:", cifrado_espanol)
+print("Texto cifrado en español:", cifrado_espanol)     
